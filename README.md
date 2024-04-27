@@ -13,4 +13,7 @@ simple game where players stack coins to meet the required amount of money for t
  - Click and Drag: Move coins to stack them up.
  - Mouse Click: Interact with the game elements.
 
+### Play The Game
+ - You can play the game from [itch.io](https://lucas-eklund.itch.io/mergegame)
+
 the was created using Unity and C#.
