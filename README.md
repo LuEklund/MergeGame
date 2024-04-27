@@ -1,5 +1,5 @@
 # MergeGame
-![](https://github.com/LuEklund/ToonTanks/blob/master/AnimationToon2.gif)
+![](https://github.com/LuEklund/MergeGame/blob/master/Animation.gif)
 
 
 simple game where players stack coins to meet the required amount of money for the Money Man. With intuitive controls and a minimalist design.
